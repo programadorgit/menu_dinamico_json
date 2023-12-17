@@ -1,0 +1,9 @@
+{
+  "Inicio": ["Inicio", "Infotep"],
+  "Nosotros": ["¿Quienes Somos?", "Historia", "Organigrama","Despacho del Director", "Marco Legal"],
+  "Oferta Formativa": ["Becas PRO-FyE", "OF-Dominicanos en el exterior", "OF-Centro de Desarollo Docente..."],
+  "Sistema en Linea": ["Solicitud en linea de cursos", "Biblioteca Virtual", "Cursos para empresas", "Consulta de Certificados"],
+  "Oficinas": ["Oficina Corporativo Institucional", "Centro de Desarrollo Docente", "Oficina Nacional"],
+  "Contactos": ["Contacto Direccion General Metropolitana", "Contacto Direccion Regional Oriental", "Contacto Direccion Regional Cibao Norte"],
+  "Innovatep": ["Novedades INNOVATEP", "INNOVATEP 2023", "Innovatep Proyectos"]
+}
